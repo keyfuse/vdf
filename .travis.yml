@@ -1,0 +1,11 @@
+language: go
+
+matrix:
+  include:
+    - os: linux
+      dist: xenial
+      sudo: true
+      go: 1.12.x
+      script:
+        - make build
+        - make test

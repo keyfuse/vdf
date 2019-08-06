@@ -1,0 +1,12 @@
+bin/*
+pkg/*
+tags
+coverage*
+src/gopkg.in/*
+src/golang.org/*
+src/github.com/*
+
+server.json
+client.json
+
+.idea/*
