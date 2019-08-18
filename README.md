@@ -16,7 +16,7 @@ We implement the approaches described in the following papers:
 
 ## How to Build
 
-To build thresh-wallet from the source code you need to have a working
+To build  from the source code you need to have a working
 Go environment with [version 1.12 or greater installed](https://golang.org/doc/install).
 
 ```
